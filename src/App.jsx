@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div>
-      <h1>TODOアプリ</h1>
+      <h1>TODOアプリ(作りかけ)</h1>
       <p>
         全{todos.length}件 / 完了{completed}件 / 未完了{todos.length - completed}件
       </p>
